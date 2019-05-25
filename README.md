@@ -2,13 +2,8 @@
 
 ## Group member name and ID
 
-- 11612611 Qiyang He
-- 11612730 Qiandong Tang
-- 11612917 Yi Zhao
-- 11612732 Chuan Yang
-- 11612030 Yuanhang Wu
-
-
+Glad to work with my partners
+Qiyang He Chuan Yang Qiandong Tang Yuanhang Wu
 
 ## 3 Features to implement
 
