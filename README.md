@@ -37,22 +37,3 @@ Glad to work with my partners
 
   If the user visits the server successfully, it will show some animation characters with their name. If the server cannot be touched, a **Network error** dialog box will be shown. 
 
-
-
-## Schedule Table
-
-| Time    | Feature                                                      |
-| ------- | ------------------------------------------------------------ |
-| week 10 | Animation Recognition by uploading image  |
-| week 11 | Animation Recognition by taking photos |
-| week 12 | Wechat sharing of animation images |
-| week 13 | Save images uploaded by others && Animation subject subscription |
-| week 14 | Subject update notification && Setting of app appearance style |
-
-
-
-## Lab session for Code Review
-
-Monday: 2-3.50pm (Instructor: Prof. Shin Hwei Tan) 
-
-TA A
